@@ -1,0 +1,13 @@
+// {
+//   "files.associations": {
+//     "climits": "cpp",
+//     "string": "cpp"
+//   },
+//   "C_Cpp.autocomplete": "disabled",
+//   "editor.acceptSuggestionOnEnter": "off",
+//   "editor.inlineSuggest.enabled": false,
+
+//   "editor.formatOnSave": true,
+//   "editor.formatOnType": true,
+//   "C_Cpp.formatting": "clangFormat"
+// }
